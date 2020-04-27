@@ -1,6 +1,4 @@
-cowsay -f eyes "Anym" | lolcat
-figlet "xna"  | lolcat
-toilet -f standard "Gans" -F gay
+
 
 # color(bold)
 red='\e[1;31m'
